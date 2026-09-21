@@ -1,0 +1,47 @@
+
+  +====================================================+
+  |      SUPERMARKET SALES - BUSINESS INSIGHTS         |
+  +====================================================+
+
+  [SALES PERFORMANCE]
+  --------------------------------------------------
+  Total Revenue        : $  128,158.20
+  Total Transactions   :          500
+  Average Sale Value   : $      256.32
+  Highest Single Sale  : $      931.30
+
+  [BRANCH ANALYSIS]
+  --------------------------------------------------
+  Top Performing Branch: Branch A
+    Revenue    = $43,406.86
+    Avg Rating = 7.02
+
+  [PRODUCT LINE ANALYSIS]
+  --------------------------------------------------
+  Best-Selling Line    : Electronic accessories
+    Revenue  = $27,837.88
+  Highest Rated Line   : Food and beverages  (avg 7.19/10)
+  Lowest  Rated Line   : Fashion accessories (avg 6.75/10)
+    Recommendation: Improve quality/service for 'Fashion accessories'
+
+  [PAYMENT METHOD ANALYSIS]
+  --------------------------------------------------
+  Most Used Method     : Credit card
+    Revenue  = $43,113.79
+    Recommendation: Offer cashback / loyalty points on Credit card
+
+  [CUSTOMER ANALYSIS]
+  --------------------------------------------------
+  Top Customer Segment : Normal
+  Top Spending Gender  : Male
+    Recommendation: Target Male customers with promotions
+
+  [TIME ANALYSIS]
+  --------------------------------------------------
+  Best Month           : March
+    Revenue  = $47,046.78
+  Best Weekday Avg Sale: Wednesday
+    Avg Sale = $281.87
+    Recommendation: Run targeted deals on Wednesday
+
+  All 10 charts saved to: C:\ABBAS\DataAnalyticsIBM\supermarket_sales\output_charts
